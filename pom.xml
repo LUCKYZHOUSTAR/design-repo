@@ -38,6 +38,7 @@
     </properties>
 
     <modules>
+        <module>single-responsibility</module>
     </modules>
 
 
