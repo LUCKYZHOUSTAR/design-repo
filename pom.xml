@@ -31,7 +31,7 @@
         <usa2.common.version>1.0.6</usa2.common.version>
         <lombok.common.version>1.16.14</lombok.common.version>
         <org.mapstruct.version>1.1.0.Final</org.mapstruct.version>
-        <spring.version>4.3.20.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
 
 
         <ascp-capacity-center-version>1.0.9</ascp-capacity-center-version>
